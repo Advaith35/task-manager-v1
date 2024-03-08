@@ -24,7 +24,6 @@ To install the project, follow these steps:
 
 To run the application, use the following command:
 
-'''bash
 npm start
 
 
